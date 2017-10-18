@@ -1,0 +1,10 @@
+{
+  "esversion": 6,
+  "node": true,
+  "laxbreak": true,
+  "globals": {
+    "angular": true,
+    "document": true,
+    "io": true
+  }
+}

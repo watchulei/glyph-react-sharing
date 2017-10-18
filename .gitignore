@@ -1,0 +1,8 @@
+*.log
+logs/*
+npm-debug.log*
+node_modules
+*bundle.js
+*bundle.css
+config/production.js
+*.pptx
